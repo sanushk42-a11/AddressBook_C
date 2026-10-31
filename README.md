@@ -36,7 +36,7 @@ Address-Book-C/
 You need `gcc` installed.
 
 ````bash
-git clone https://github.com/almishamsudheen-ops/Address-Book-C.git
+git clone https://github.com/sanushk42-a11/AddressBook_C.git
 cd Address-Book-C
 gcc *.c -o addressbook
 ./addressbook
